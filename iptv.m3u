@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
 #EXTINF:-1 group-title="生命电视台" tvg-name="更新时间2026.3.30" tvg-logo="https://tv.jingeng.cn/life.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",更新时间2026.3.30
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+#EXTINF:-1 group-title="南無阿彌陀佛 Namo Amitabha 淨土 淨念相繼憶念 Pure Land" tvg-name="南無阿彌陀佛" tvg-logo="https://tv.jingeng.cn/life.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",更新时间2026.3.30
+https://www.dailymotion.com/playlist/x7sshf
 #EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-1" tvg-logo="https://epg.112114.xyz/logo/CCTV-1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-1
 http://111.56.90.5/000000000000/5000000004000002226/1.m3u8
 #EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-1" tvg-logo="https://epg.112114.xyz/logo/CCTV-1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-1
