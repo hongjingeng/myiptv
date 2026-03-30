@@ -17,7 +17,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=27
 http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰资讯
 https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-#EXTINF:-1 group-title="[外网]港澳台直播" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",华视
+#EXTINF:-1 group-title="[外网]台湾台直播" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",华视
 http://74.91.26.218:82/live/cts.m3u8
 #EXTINF:-1 group-title="[外网]台湾台直播" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中视
 http://74.91.26.218:82/live/ctv.m3u8
@@ -35,3 +35,195 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 #EXTINF:-1 group-title="[电信]央卫视直播" tvg-name="CCTV4中文国际" tvg-logo="https://epg.112114.xyz/logo/CCTV4中文国际.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV4中文国际
 http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="即兴曲" tvg-logo="https://epg.112114.xyz/logo/即兴曲.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",即兴曲
+https://cfss.cc/api/kg/13559898.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="夜曲" tvg-logo="https://epg.112114.xyz/logo/夜曲.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",夜曲
+https://cfss.cc/api/kg/596344.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="傻笑" tvg-logo="https://epg.112114.xyz/logo/傻笑.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",傻笑
+https://cfss.cc/api/kg/596984.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="枫" tvg-logo="https://epg.112114.xyz/logo/枫.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",枫
+https://cfss.cc/api/kg/2808.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="园游会" tvg-logo="https://epg.112114.xyz/logo/园游会.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",园游会
+https://cfss.cc/api/kg/592679.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="浪漫手机" tvg-logo="https://epg.112114.xyz/logo/浪漫手机.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",浪漫手机
+https://cfss.cc/api/kg/756738.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="白色风车" tvg-logo="https://epg.112114.xyz/logo/白色风车.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",白色风车
+https://cfss.cc/api/kg/3022748.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="借口" tvg-logo="https://epg.112114.xyz/logo/借口.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",借口
+https://cfss.cc/api/kg/29375.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="搁浅" tvg-logo="https://epg.112114.xyz/logo/搁浅.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",搁浅
+https://cfss.cc/api/kg/756760.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="七里香" tvg-logo="https://epg.112114.xyz/logo/七里香.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",七里香
+https://cfss.cc/api/kg/756969.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="发如雪" tvg-logo="https://epg.112114.xyz/logo/发如雪.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",发如雪
+https://cfss.cc/api/kg/2761.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="听妈妈的话" tvg-logo="https://epg.112114.xyz/logo/听妈妈的话.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",听妈妈的话
+https://cfss.cc/api/kg/578726.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="听见下雨的声音" tvg-logo="https://epg.112114.xyz/logo/听见下雨的声音.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",听见下雨的声音
+https://cfss.cc/api/kg/174237.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="爱你没差" tvg-logo="https://epg.112114.xyz/logo/爱你没差.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱你没差
+https://cfss.cc/api/kg/601548.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="退后" tvg-logo="https://epg.112114.xyz/logo/退后.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",退后
+https://cfss.cc/api/kg/179586.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="安静" tvg-logo="https://epg.112114.xyz/logo/安静.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",安静
+https://cfss.cc/api/kg/756685.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="彩虹" tvg-logo="https://epg.112114.xyz/logo/彩虹.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",彩虹
+https://cfss.cc/api/kg/355.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="说好的幸福呢" tvg-logo="https://epg.112114.xyz/logo/说好的幸福呢.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",说好的幸福呢
+https://cfss.cc/api/kg/158898.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="一点点" tvg-logo="https://epg.112114.xyz/logo/一点点.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",一点点
+https://cfss.cc/api/kg/612883.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="黑色幽默" tvg-logo="https://epg.112114.xyz/logo/黑色幽默.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",黑色幽默
+https://cfss.cc/api/kg/53399.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="晴天" tvg-logo="https://epg.112114.xyz/logo/晴天.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",晴天
+https://cfss.cc/api/kg/117613.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="告白气球" tvg-logo="https://epg.112114.xyz/logo/告白气球.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",告白气球
+https://cfss.cc/api/kg/589001.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="说好不哭" tvg-logo="https://epg.112114.xyz/logo/说好不哭.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",说好不哭
+https://cfss.cc/api/kg/1485652.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="一路向北" tvg-logo="https://epg.112114.xyz/logo/一路向北.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",一路向北
+https://cfss.cc/api/kg/32776.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="花海" tvg-logo="https://epg.112114.xyz/logo/花海.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",花海
+https://cfss.cc/api/kg/29532.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="简单爱" tvg-logo="https://epg.112114.xyz/logo/简单爱.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",简单爱
+https://cfss.cc/api/kg/596381.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="蒲公英的约定" tvg-logo="https://epg.112114.xyz/logo/蒲公英的约定.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",蒲公英的约定
+https://cfss.cc/api/kg/158907.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="不能说的秘密" tvg-logo="https://epg.112114.xyz/logo/不能说的秘密.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",不能说的秘密
+https://cfss.cc/api/kg/159059.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="龙卷风" tvg-logo="https://epg.112114.xyz/logo/龙卷风.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龙卷风
+https://cfss.cc/api/kg/159057.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="反方向的钟" tvg-logo="https://epg.112114.xyz/logo/反方向的钟.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",反方向的钟
+https://cfss.cc/api/kg/52705.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="爱在西元前" tvg-logo="https://epg.112114.xyz/logo/爱在西元前.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱在西元前
+https://cfss.cc/api/kg/596904.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="最长的电影" tvg-logo="https://epg.112114.xyz/logo/最长的电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",最长的电影
+https://cfss.cc/api/kg/756444.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="明明就" tvg-logo="https://epg.112114.xyz/logo/明明就.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",明明就
+https://cfss.cc/api/kg/596504.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="轨迹" tvg-logo="https://epg.112114.xyz/logo/轨迹.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",轨迹
+https://cfss.cc/api/kg/1129.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="半岛铁盒" tvg-logo="https://epg.112114.xyz/logo/半岛铁盒.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",半岛铁盒
+https://cfss.cc/api/kg/608135.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="以父之名" tvg-logo="https://epg.112114.xyz/logo/以父之名.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",以父之名
+https://cfss.cc/api/kg/758240.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="东风破" tvg-logo="https://epg.112114.xyz/logo/东风破.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东风破
+https://cfss.cc/api/kg/158899.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="说了再见" tvg-logo="https://epg.112114.xyz/logo/说了再见.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",说了再见
+https://cfss.cc/api/kg/596406.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="暗号" tvg-logo="https://epg.112114.xyz/logo/暗号.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",暗号
+https://cfss.cc/api/kg/60749.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="菊花台" tvg-logo="https://epg.112114.xyz/logo/菊花台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",菊花台
+https://cfss.cc/api/kg/37575.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="稻香" tvg-logo="https://epg.112114.xyz/logo/稻香.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",稻香
+https://cfss.cc/api/kg/592103.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="给我一首歌的时间" tvg-logo="https://epg.112114.xyz/logo/给我一首歌的时间.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",给我一首歌的时间
+https://cfss.cc/api/kg/28273.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="手写的从前" tvg-logo="https://epg.112114.xyz/logo/手写的从前.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",手写的从前
+https://cfss.cc/api/kg/165667.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="我是如此相信" tvg-logo="https://epg.112114.xyz/logo/我是如此相信.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",我是如此相信
+https://cfss.cc/api/kg/1643256.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="最伟大的作品" tvg-logo="https://epg.112114.xyz/logo/最伟大的作品.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",最伟大的作品
+https://cfss.cc/api/kg/6725099.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="我不配" tvg-logo="https://epg.112114.xyz/logo/我不配.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",我不配
+https://cfss.cc/api/kg/596434.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="开不了口" tvg-logo="https://epg.112114.xyz/logo/开不了口.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",开不了口
+https://cfss.cc/api/kg/596426.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="你听得到" tvg-logo="https://epg.112114.xyz/logo/你听得到.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",你听得到
+https://cfss.cc/api/kg/592430.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="等你下课" tvg-logo="https://epg.112114.xyz/logo/等你下课.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",等你下课
+https://cfss.cc/api/kg/647748.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="我落泪情绪零碎" tvg-logo="https://epg.112114.xyz/logo/我落泪情绪零碎.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",我落泪情绪零碎
+https://cfss.cc/api/kg/91188.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="星晴" tvg-logo="https://epg.112114.xyz/logo/星晴.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",星晴
+https://cfss.cc/api/kg/756472.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="黑色毛衣" tvg-logo="https://epg.112114.xyz/logo/黑色毛衣.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",黑色毛衣
+https://cfss.cc/api/kg/756572.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="回到过去" tvg-logo="https://epg.112114.xyz/logo/回到过去.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",回到过去
+https://cfss.cc/api/kg/5030038.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="断了的弦" tvg-logo="https://epg.112114.xyz/logo/断了的弦.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",断了的弦
+https://cfss.cc/api/kg/756412.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="甜甜的" tvg-logo="https://epg.112114.xyz/logo/甜甜的.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",甜甜的
+https://cfss.cc/api/kg/758285.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="珊瑚海" tvg-logo="https://epg.112114.xyz/logo/珊瑚海.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",珊瑚海
+https://cfss.cc/api/kg/93469.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="不该" tvg-logo="https://epg.112114.xyz/logo/不该.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",不该
+https://cfss.cc/api/kg/581244.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="千里之外" tvg-logo="https://epg.112114.xyz/logo/千里之外.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",千里之外
+https://cfss.cc/api/kg/34453.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="倒带" tvg-logo="https://epg.112114.xyz/logo/倒带.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",倒带
+https://cfss.cc/api/kg/57894.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="心雨" tvg-logo="https://epg.112114.xyz/logo/心雨.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",心雨
+https://cfss.cc/api/kg/596313.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="分裂" tvg-logo="https://epg.112114.xyz/logo/分裂.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",分裂
+https://cfss.cc/api/kg/758257.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="阳光宅男" tvg-logo="https://epg.112114.xyz/logo/阳光宅男.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",阳光宅男
+https://cfss.cc/api/kg/6334.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="超人不会飞" tvg-logo="https://epg.112114.xyz/logo/超人不会飞.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",超人不会飞
+https://cfss.cc/api/kg/756588.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="大笨钟" tvg-logo="https://epg.112114.xyz/logo/大笨钟.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",大笨钟
+https://cfss.cc/api/kg/598167.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="哪里都是你" tvg-logo="https://epg.112114.xyz/logo/哪里都是你.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",哪里都是你
+https://cfss.cc/api/kg/3539844.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="四面楚歌" tvg-logo="https://epg.112114.xyz/logo/四面楚歌.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",四面楚歌
+https://cfss.cc/api/kg/2762.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="千山万水" tvg-logo="https://epg.112114.xyz/logo/千山万水.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",千山万水
+https://cfss.cc/api/kg/237276.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="算什么男人" tvg-logo="https://epg.112114.xyz/logo/算什么男人.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",算什么男人
+https://cfss.cc/api/kg/163323.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="我要夏天" tvg-logo="https://epg.112114.xyz/logo/我要夏天.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",我要夏天
+https://cfss.cc/api/kg/181124.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="青花瓷" tvg-logo="https://epg.112114.xyz/logo/青花瓷.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",青花瓷
+https://cfss.cc/api/kg/592096.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="可爱女人" tvg-logo="https://epg.112114.xyz/logo/可爱女人.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",可爱女人
+https://cfss.cc/api/kg/596815.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="上海一九四三" tvg-logo="https://epg.112114.xyz/logo/上海一九四三.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",上海一九四三
+https://cfss.cc/api/kg/598114.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="双截棍" tvg-logo="https://epg.112114.xyz/logo/双截棍.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",双截棍
+https://cfss.cc/api/kg/158894.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="蜗牛" tvg-logo="https://epg.112114.xyz/logo/蜗牛.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",蜗牛
+https://cfss.cc/api/kg/616227.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="爱我别走" tvg-logo="https://epg.112114.xyz/logo/爱我别走.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱我别走
+https://cfss.cc/api/kg/34680.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="爱情悬崖" tvg-logo="https://epg.112114.xyz/logo/爱情悬崖.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱情悬崖
+https://cfss.cc/api/kg/1128.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="爱的飞行日记" tvg-logo="https://epg.112114.xyz/logo/爱的飞行日记.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱的飞行日记
+https://cfss.cc/api/kg/91179.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="霍元甲" tvg-logo="https://epg.112114.xyz/logo/霍元甲.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",霍元甲
+https://cfss.cc/api/kg/596581.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="你好吗" tvg-logo="https://epg.112114.xyz/logo/你好吗.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",你好吗
+https://cfss.cc/api/kg/758247.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="黄金甲" tvg-logo="https://epg.112114.xyz/logo/黄金甲.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",黄金甲
+https://cfss.cc/api/kg/756761.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="龙拳" tvg-logo="https://epg.112114.xyz/logo/龙拳.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",龙拳
+https://cfss.cc/api/kg/759385.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="兰亭序" tvg-logo="https://epg.112114.xyz/logo/兰亭序.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",兰亭序
+https://cfss.cc/api/kg/756476.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="画沙" tvg-logo="https://epg.112114.xyz/logo/画沙.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",画沙
+https://cfss.cc/api/kg/1049660.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="红尘客栈" tvg-logo="https://epg.112114.xyz/logo/红尘客栈.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",红尘客栈
+https://cfss.cc/api/kg/596097.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="漂移" tvg-logo="https://epg.112114.xyz/logo/漂移.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",漂移
+https://cfss.cc/api/kg/3770369.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="本草纲目" tvg-logo="https://epg.112114.xyz/logo/本草纲目.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",本草纲目
+https://cfss.cc/api/kg/756630.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="我的地盘" tvg-logo="https://epg.112114.xyz/logo/我的地盘.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",我的地盘
+https://cfss.cc/api/kg/1261.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="瓦解" tvg-logo="https://epg.112114.xyz/logo/瓦解.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",瓦解
+https://txmov2.a.kwimgs.com/upic/2025/05/18/18/BMjAyNTA1MTgxODM3NDdfMTA1MDEwOTk4Ml8xNjQ2MDE0MjY0NjVfMl8z_b_Bbfb62e6b9d724cd45a3ed462e4c16f39.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="分裂" tvg-logo="https://epg.112114.xyz/logo/分裂.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",分裂
+https://alimov2.a.kwimgs.com/upic/2024/10/09/09/BMjAyNDEwMDkwOTA4NDFfMTMxNzAwMDUwNV8xNDU2Nzg0MDk5MDdfMl8z_b_Bf4bc983e2d5804ab066c988ba7652ec5.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="秘密花园" tvg-logo="https://epg.112114.xyz/logo/秘密花园.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",秘密花园
+ https://k0u3cydy43yaz.djvod.ndcimgs.com/bs2/photo-video-mz/5225864605208445410_36e3cffbcde751f5_4169_sl200hd15.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="2002THEONE演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2002THEONE演唱会完整版.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",2002THEONE演唱会完整版
+https://vd3.bdstatic.com/mda-nmgdfvsm9kc46pcz/576p/h264/1671270120913302151/mda-nmgdfvsm9kc46pcz.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="2004无与伦比演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2004无与伦比演唱会完整版.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",2004无与伦比演唱会完整版
+https://vd4.bdstatic.com/mda-nmbpre7yr8iug4m1/576p/h264/1670863877948761917/mda-nmbpre7yr8iug4m1.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="2007年世界巡回演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2007年世界巡回演唱会完整版.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",2007年世界巡回演唱会完整版
+https://vd4.bdstatic.com/mda-nmbgya8v797emg7u/576p/h264/1670847005358747234/mda-nmbgya8v797emg7u.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="2010超时代演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2010超时代演唱会完整版.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",2010超时代演唱会完整版
+https://vd2.bdstatic.com/mda-nmc4khkjnn0k62bn/360p/h264/1670901524505595792/mda-nmc4khkjnn0k62bn.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="2013摩天轮演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2013摩天轮演唱会完整版.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",2013摩天轮演唱会完整版
+https://vd4.bdstatic.com/mda-nmcex5u2u9puxz6d/576p/h264/1670928165588976698/mda-nmcex5u2u9puxz6d.mp4
+#EXTINF:-1 group-title="🎤周杰伦歌曲点播" tvg-name="2016地表最强演唱会完整版" tvg-logo="https://epg.112114.xyz/logo/2016地表最强演唱会完整版.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",2016地表最强演唱会完整版
+https://vd2.bdstatic.com/mda-nmd5ujxqrmxh59qj/576p/h264/1670992604552514459/mda-nmd5ujxqrmxh59qj.mp4
