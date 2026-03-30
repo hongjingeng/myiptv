@@ -34,3 +34,10 @@ http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 #EXTINF:-1 group-title="🎞️电影直播" tvg-name="邵氏喜剧" tvg-logo="https://epg.112114.xyz/logo/邵氏喜剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",邵氏喜剧
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+#EXTINF:-1 group-title="[电信]央卫视直播" tvg-name="CCTV4中文国际" tvg-logo="https://epg.112114.xyz/logo/CCTV4中文国际.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV4中文国际
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="晋江电视台" tvg-name="晋江电视台" tvg-logo="https://epg.112114.xyz/logo/晋江电视台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",晋江电视台
+https://www.ijjnews.com/folder5356/
+
+
+
