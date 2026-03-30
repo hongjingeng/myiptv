@@ -1,12 +1,11 @@
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
-
-#EXTINF:-1 group-title="生命电视台" tvg-name="更新时间2026.3.30" tvg-logo="https://tv.jingeng.cn/life.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",更新时间2026.3.30
+#EXTINF:-1 group-title="生命电视台" tvg-name="更新时间2026.3.31" tvg-logo="https://tv.jingeng.cn/life.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",更新时间2026.3.31
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-#EXTINF:-1 group-title="地藏王菩薩超渡心咒108遍" tvg-name="地藏王菩薩超渡心咒108遍" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩超渡心咒108遍
+#EXTINF:-1 group-title="[三网]地藏王菩薩" tvg-name="地藏王菩薩超渡心咒108遍" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩超渡心咒108遍
 https://txmov2.a.kwimgs.com/ksc1/swg1T6nDtwh2QOTzvHm_R7ajuUEVwCynOuCf-k-GGYMM6oiF8GufPGrOYjGfp3Qq15QH4Eo2mGpx7KsZvv25xWuf-TBN9c2YFQpXOK94QSHApJhz2622LchSFbjj-bXZO4GeRqEfiHJYvtSqZn8mh7JAFJFZ9y8f7-c4hpczWR_KvvRZcpyV6mF9obA7hzRZ.mp4
-#EXTINF:-1 group-title="地藏王菩薩滅定業真言" tvg-name="地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra
+#EXTINF:-1 group-title="[三网]地藏王菩薩" tvg-name="地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra
 https://txmov2.a.kwimgs.com/ksc1/uAU7MgMHpx_3KBOWUySopcdtH6S2LP_jQC-QJpABQrd06odi6tgb6Ir9azxu5hfXoDBNFiJv7-RT_NOoPVoaJOb4unn9uAMTqf6ouOzpuYHgbLQvb0dtUs7qKew8Ub0zIivmY4rM9f8tYcDqBYV5IUFG1N4kDsG6cJvHzyV-ozP_onLTvYwbHnuL2VYnyjl-.mp4
-#EXTINF:-1 group-title="南無地藏王菩薩聖號" tvg-name="南無地藏王菩薩聖號~ Namo Ksitigarbha Bodhisattva" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",南無地藏王菩薩聖號~ Namo Ksitigarbha Bodhisattva
+#EXTINF:-1 group-title="[三网]地藏王菩薩" tvg-name="南無地藏王菩薩聖號~ Namo Ksitigarbha Bodhisattva" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",南無地藏王菩薩聖號~ Namo Ksitigarbha Bodhisattva
 https://txmov2.a.kwimgs.com/ksc1/2CwB2qdHvxfIFKtTF7g6T3TAjQQhL8uMhBue09P2uIhcc2IKlojNCoZbe4EFccWeIuzMM_hrJZUxE6d2XbPoAbZlI8wXg2qwpOFerIfeWdLTJoughdlFwJm0EgoMVPdvOHh0NRuZDEYnYlPycvfU0kjd1LbTjnZ6ppZsv7eFn52f-PhHQ4S9toJ46gjcMx4K.mp4
 #EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视中文
 http://cdn6.163189.xyz/163189/fhzw
@@ -18,13 +17,13 @@ http://iptv.4666888.xyz/iptv2A.php?id=27
 http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰资讯
 https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
-#EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",华视
+#EXTINF:-1 group-title="[外网]港澳台直播" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",华视
 http://74.91.26.218:82/live/cts.m3u8
-#EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中视
+#EXTINF:-1 group-title="[外网]台湾台直播" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",中视
 http://74.91.26.218:82/live/ctv.m3u8
-#EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",公视
+#EXTINF:-1 group-title="[外网]台湾台直播" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",公视
 http://74.91.26.218:82/live/pts.m3u8
-#EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",台视
+#EXTINF:-1 group-title="[外网]台湾台直播" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",台视
 http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 group-title="🎞️电影直播" tvg-name="邵氏电影" tvg-logo="https://epg.112114.xyz/logo/邵氏电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
@@ -36,8 +35,3 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 #EXTINF:-1 group-title="[电信]央卫视直播" tvg-name="CCTV4中文国际" tvg-logo="https://epg.112114.xyz/logo/CCTV4中文国际.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV4中文国际
 http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="晋江电视台" tvg-name="晋江电视台" tvg-logo="https://epg.112114.xyz/logo/晋江电视台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",晋江电视台
-https://www.ijjnews.com/folder5356/
-
-
-
