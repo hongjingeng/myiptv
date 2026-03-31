@@ -8,8 +8,10 @@ http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 https://5cac63a7bf69d.streamlock.net/HZTV/HZTV/playlist.m3u8
 #EXTINF:-1 group-title="佛教电视台" tvg-name="唯心電視" tvg-logo="https://tv.jingeng.cn/wxtv.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",唯心網路電視
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 group-title="佛教电视台" tvg-name="佛衛電視慈悲台1" tvg-logo="https://tv.jingeng.cn/bts_logo.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",佛衛電視慈悲台
-https://ottlive.hinet.net/webapp/bts/live?channel=12
+http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/playlist.m3u8
+http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8
 #EXTINF:-1 group-title="佛教电视台" tvg-name="佛衛電視慈悲台2" tvg-logo="https://tv.jingeng.cn/bts_logo.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",佛衛電視慈悲台
 https://ottlive.hinet.net/webapp/bts/live?channel=13
 #EXTINF:-1 group-title="佛教电视台" tvg-name="正德電視台" tvg-logo="https://tv.jingeng.cn/zhengde.svg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",正德電視台
