@@ -10,16 +10,11 @@ https://5cac63a7bf69d.streamlock.net/HZTV/HZTV/playlist.m3u8
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 #EXTINF:-1 group-title="佛教电视台" tvg-name="唯心電視2" tvg-logo="https://tv.jingeng.cn/wxtv.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",唯心網路電視2
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 group-title="佛教电视台" tvg-name="YB净空法师" tvg-logo="https://tv.jingeng.cn/wxtv.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",净空法师
-https://youtu.be/LuomVsFAFpg?_=1
-#EXTINF:-1 group-title="佛教电视台" tvg-name="chinkung净空英文" tvg-logo="https://tv.jingeng.cn/wxtv.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",chinkung净空法师
-https://www.chinkung.org/livestreaming/fvp-1/#fvp_1
 #EXTINF:-1 group-title="佛教电视台" tvg-name="[需外网]佛衛電視慈悲台1" tvg-logo="https://tv.jingeng.cn/bts_logo.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",佛衛電視慈悲台
 http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/playlist.m3u8
 #EXTINF:-1 group-title="佛教电视台" tvg-name="[需外网]佛衛電視慈悲台2" tvg-logo="https://tv.jingeng.cn/bts_logo.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",佛衛電視慈悲台2
 http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8
-#EXTINF:-1 group-title="佛教电视台" tvg-name="[需外网]正德電視台" tvg-logo="https://tv.jingeng.cn/zhengde.svg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",正德電視台
-https://www.youtube.com/live/sX5Ad1GeUkw?si=Ce6leEnKJDzHrA64
+#EXTINF:-1 group-title="佛教电视台" tvg-name="[暂无源]正德電視台" tvg-logo="https://tv.jingeng.cn/zhengde.svg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",正德電視台
 #EXTINF:-1 group-title="[三网]地藏王菩薩" tvg-name="地藏王菩薩超渡心咒108遍" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩超渡心咒108遍
 https://txmov2.a.kwimgs.com/ksc1/swg1T6nDtwh2QOTzvHm_R7ajuUEVwCynOuCf-k-GGYMM6oiF8GufPGrOYjGfp3Qq15QH4Eo2mGpx7KsZvv25xWuf-TBN9c2YFQpXOK94QSHApJhz2622LchSFbjj-bXZO4GeRqEfiHJYvtSqZn8mh7JAFJFZ9y8f7-c4hpczWR_KvvRZcpyV6mF9obA7hzRZ.mp4
 #EXTINF:-1 group-title="[三网]地藏王菩薩" tvg-name="地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra
