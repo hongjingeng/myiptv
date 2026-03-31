@@ -15,12 +15,14 @@ http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/playlist.m3u8
 #EXTINF:-1 group-title="佛教电视台" tvg-name="[需外网]佛衛電視慈悲台2" tvg-logo="https://tv.jingeng.cn/bts_logo.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",佛衛電視慈悲台2
 http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8
 #EXTINF:-1 group-title="佛教电视台" tvg-name="[暂无源]正德電視台" tvg-logo="https://tv.jingeng.cn/zhengde.svg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",正德電視台
-#EXTINF:-1 group-title="[三网]地藏王菩薩" tvg-name="地藏王菩薩超渡心咒108遍" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩超渡心咒108遍
+#EXTINF:-1 group-title="地藏王菩薩" tvg-name="地藏王菩薩超渡心咒108遍" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩超渡心咒108遍
 https://txmov2.a.kwimgs.com/ksc1/swg1T6nDtwh2QOTzvHm_R7ajuUEVwCynOuCf-k-GGYMM6oiF8GufPGrOYjGfp3Qq15QH4Eo2mGpx7KsZvv25xWuf-TBN9c2YFQpXOK94QSHApJhz2622LchSFbjj-bXZO4GeRqEfiHJYvtSqZn8mh7JAFJFZ9y8f7-c4hpczWR_KvvRZcpyV6mF9obA7hzRZ.mp4
-#EXTINF:-1 group-title="[三网]地藏王菩薩" tvg-name="地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra
+#EXTINF:-1 group-title="地藏王菩薩" tvg-name="地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra
 https://txmov2.a.kwimgs.com/ksc1/uAU7MgMHpx_3KBOWUySopcdtH6S2LP_jQC-QJpABQrd06odi6tgb6Ir9azxu5hfXoDBNFiJv7-RT_NOoPVoaJOb4unn9uAMTqf6ouOzpuYHgbLQvb0dtUs7qKew8Ub0zIivmY4rM9f8tYcDqBYV5IUFG1N4kDsG6cJvHzyV-ozP_onLTvYwbHnuL2VYnyjl-.mp4
-#EXTINF:-1 group-title="[三网]地藏王菩薩" tvg-name="南無地藏王菩薩聖號~ Namo Ksitigarbha Bodhisattva" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",南無地藏王菩薩聖號~ Namo Ksitigarbha Bodhisattva
+#EXTINF:-1 group-title="地藏王菩薩" tvg-name="南無地藏王菩薩聖號~ Namo Ksitigarbha Bodhisattva" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",南無地藏王菩薩聖號~ Namo Ksitigarbha Bodhisattva
 https://txmov2.a.kwimgs.com/ksc1/2CwB2qdHvxfIFKtTF7g6T3TAjQQhL8uMhBue09P2uIhcc2IKlojNCoZbe4EFccWeIuzMM_hrJZUxE6d2XbPoAbZlI8wXg2qwpOFerIfeWdLTJoughdlFwJm0EgoMVPdvOHh0NRuZDEYnYlPycvfU0kjd1LbTjnZ6ppZsv7eFn52f-PhHQ4S9toJ46gjcMx4K.mp4
+#EXTINF:-1 group-title="心经" tvg-name="BGM背景音樂 The Heart Sutra" tvg-logo="https://tv.jingeng.cn/xj.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",心經--Buddhist song 心经 The Heart Sutra
+https://www.wemart.ae/amtf/xinjing.mp4
 #EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视中文
 http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视资讯
