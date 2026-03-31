@@ -25,6 +25,10 @@ https://txmov2.a.kwimgs.com/ksc1/2CwB2qdHvxfIFKtTF7g6T3TAjQQhL8uMhBue09P2uIhcc2I
 https://txmov2.a.kwimgs.com/ksc1/B68yCgXUeUW4DH6VepUOzj4KlawQ0VmVpyMWZsSigdAz3fO6Wax6eXbZ6BmxEeHUtn7-f8vdALNgqSCfr6Lr6vZJA3IIeDVoQD-gv8eAzab4cmpyoccwKIvkjt-0ejwlyzDV0h00h8_wZXP_tBWIl8hUuHqV_xkpeLP_QK8ddHReUTCvCaQIT-qkTON1UQvW.mp4
 #EXTINF:-1 group-title="往生咒" tvg-name="《往生咒》108遍法鼓山剪輯加長版高清" tvg-logo="https://tv.jingeng.cn/wsz.gif" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",《往生咒》108遍法鼓山剪輯加長版高清
 https://txmov2.a.kwimgs.com/ksc1/KRKkD17-7Hpp6K24HXz7_1zuD0-9GHdevPyq7b6S29c4tIawvfHOu_6iLqKJXGzM8v9s-wpbG8UDm_bYrz934sdZB7Jec53Mxnx_pmflk297LPawLZzqIqKo1LZsfFreXElJ-QePOe51vI6rTEdOwI-oSIfV8lLPbmxhEfICl6SwwcNgLapcQEwmKGFGuJkw.mp4
+#EXTINF:-1 group-title="基督教电视台" tvg-name="goodtv2" tvg-logo="https://tv.jingeng.cn/goodtv.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",GOODTV2台（真理台）
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 group-title="基督教电视台" tvg-name="goodtv" tvg-logo="https://tv.jingeng.cn/goodtv.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",goodtv（综合台）
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视中文
 http://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视资讯
