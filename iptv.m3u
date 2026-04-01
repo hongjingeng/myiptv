@@ -109,6 +109,12 @@ http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
 http://111.56.90.5/000000000000/1000000005000266006/1.m3u8
 #EXTINF:-1 group-title="福建" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门卫视
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266006&livemode=1&stbId=yu&mode=1&$4M
+#EXTINF:-1 group-title="福建" tvg-name="厦门TV-1高清" tvg-logo="https://epg.112114.xyz/logo/厦门TV-1高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门TV-1高清
+http://cstvpull.live.wscdns.com/live/xiamen1.flv
+#EXTINF:-1 group-title="福建" tvg-name="厦门TV-2高清" tvg-logo="https://epg.112114.xyz/logo/厦门TV-2高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门TV-2高清
+http://cstvpull.live.wscdns.com/live/xiamen2.flv
+#EXTINF:-1 group-title="福建" tvg-name="厦门TV-3高清" tvg-logo="https://epg.112114.xyz/logo/厦门TV-3高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门TV-3高清
+http://cstvpull.live.wscdns.com/live/xiamen3.flv
 #EXTINF:-1 group-title="CCTV" tvg-name="CCTV-4 中文国际" tvg-logo="https://epg.112114.xyz/logo/CCTV-4 中文国际.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-4 中文国际
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 group-title="CCTV" tvg-name="CCTV-4 中文国际" tvg-logo="https://epg.112114.xyz/logo/CCTV-4 中文国际.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-4 中文国际
@@ -125,3 +131,5 @@ http://111.56.90.5/000000000000/5000000011000031102/1.m3u8
 http://111.56.90.5/000000000000/1000000002000031664/1.m3u8
 #EXTINF:-1 group-title="CCTV" tvg-name="CCTV-4 中文国际" tvg-logo="https://epg.112114.xyz/logo/CCTV-4 中文国际.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-4 中文国际
 http://111.56.90.5/000000000000/1000000005000265004/1.m3u8
+#EXTINF:-1 group-title="经典休闲话剧" tvg-name="武林外传" tvg-logo="https://epg.112114.xyz/logo/武林外传.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",武林外传
+https://lvbdcdncmn.inter.71edge.com/tslive/l1/c52_lb_553_300_t10/I67sb6wvoWaxfjPEdSuB8xyBShFln4Poub7LGIzPt5oGLcKaLXD21aR_t20nEIxJFmaf_i6EYQ77gA-gLJ3xOTtq6K7hpgCREwLfbuNMXruJdFta9-ai9bYk4cTMbhQgRh9SCkE3yt46X4E0qOVADDdga3TMRSLnFscFYr-_s4Sd2sgykmnFa4-hdgX9599FiW_RX5VYGH9B1jyj748_CAu4VgqqTDwxUx8w556tCWY7mlb1r84RWuip72e4H8-HkUuBUoFeD4aw9m1HOUfgwx7ixDqJUFOmq9F-LeKLTZ2Ap6fobRuaUiaSqHsCWvuy9XWe5KWBiZv6bUJ8oAuqkA/1a6758d872929c8d41a7629db52a831f7/c52_lb_553_300_t10.m3u8?
