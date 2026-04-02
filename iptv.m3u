@@ -59,17 +59,34 @@ http://cdn6.163189.xyz/163189/fhzw
 http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视中文
 http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+#EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视中文
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视中文
+http://php.jdshipin.com/smt.php?id=phoenixtv_hd
 #EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视中文
 http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视中文
 http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视中文
+http://120.238.5.44:1698/hls/86/index.m3u8
 #EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视资讯
 http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视资讯
 https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 #EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视资讯
 http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
-
+#EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视资讯
+http://php.jdshipin.com/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视资讯
+http://120.238.5.44:1698/hls/85/index.m3u8
+#EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰香港HD
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰香港HD
+http://php.jdshipin.com/smt.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰香港HD
+http://120.238.5.44:1698/hls/87/index.m3u8
 #EXTINF:-1 group-title="台湾台直播" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",华视
 http://74.91.26.218:82/live/cts.m3u8
 #EXTINF:-1 group-title="台湾台直播" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",华视
@@ -114,28 +131,14 @@ http://107.150.60.122/live/dnwshd.m3u8
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000004000010584&livemode=1&stbId=yu&mode=1&$8M
 #EXTINF:-1 group-title="福建" tvg-name="福建东南卫视高清" tvg-logo="https://epg.112114.xyz/logo/福建东南卫视高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",福建东南卫视高清
 http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="福建" tvg-name="福建东南卫视高清" tvg-logo="https://epg.112114.xyz/logo/福建东南卫视高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",福建东南卫视高清
+http://120.238.5.44:1698/hls/44/index.m3u8
 #EXTINF:-1 group-title="福建" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门卫视
 http://183.250.156.180:9999/newlive/live/hls/28/live.m3u8
 #EXTINF:-1 group-title="福建" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门卫视
 http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
 #EXTINF:-1 group-title="福建" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门卫视
-http://111.56.90.5/000000000000/1000000005000266006/1.m3u8
-#EXTINF:-1 group-title="福建" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门卫视
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000005000266006&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 group-title="福建" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门卫视
-http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
-#EXTINF:-1 group-title="福建" tvg-name="厦门TV-1高清" tvg-logo="https://epg.112114.xyz/logo/厦门TV-1高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门TV-1高清
-http://cstvpull.live.wscdns.com/live/xiamen1.flv
-#EXTINF:-1 group-title="福建" tvg-name="厦门TV-1高清" tvg-logo="https://epg.112114.xyz/logo/厦门TV-1高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门TV-1高清
-https://live1.kxm.xmtv.cn/xm1/tvzb/live.m3u
-#EXTINF:-1 group-title="福建" tvg-name="厦门TV-2高清" tvg-logo="https://epg.112114.xyz/logo/厦门TV-2高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门TV-2高清
-http://cstvpull.live.wscdns.com/live/xiamen2.flv
-#EXTINF:-1 group-title="福建" tvg-name="厦门TV-2高清" tvg-logo="https://epg.112114.xyz/logo/厦门TV-2高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门TV-2高清
-https://live1.kxm.xmtv.cn/xm2/tvzb/live.m3u
-#EXTINF:-1 group-title="福建" tvg-name="厦门TV-3高清" tvg-logo="https://epg.112114.xyz/logo/厦门TV-3高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门TV-3高清
-http://cstvpull.live.wscdns.com/live/xiamen3.flv
-#EXTINF:-1 group-title="福建" tvg-name="厦门TV-3高清" tvg-logo="https://epg.112114.xyz/logo/厦门TV-3高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门TV-3高清
-https://live1.kxm.xmtv.cn/xm3/tvzb/live.m3u
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
 #EXTINF:-1 group-title="CCTV" tvg-name="CCTV-4 中文国际" tvg-logo="https://epg.112114.xyz/logo/CCTV-4 中文国际.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-4 中文国际
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 group-title="CCTV" tvg-name="CCTV-4 中文国际" tvg-logo="https://epg.112114.xyz/logo/CCTV-4 中文国际.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-4 中文国际
@@ -154,3 +157,15 @@ http://111.56.90.5/000000000000/1000000002000031664/1.m3u8
 http://111.56.90.5/000000000000/1000000005000265004/1.m3u8
 #EXTINF:-1 group-title="经典休闲话剧" tvg-name="武林外传" tvg-logo="https://epg.112114.xyz/logo/武林外传.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",武林外传
 https://lvbdcdncmn.inter.71edge.com/tslive/l1/c52_lb_553_300_t10/I67sb6wvoWaxfjPEdSuB8xyBShFln4Poub7LGIzPt5oGLcKaLXD21aR_t20nEIxJFmaf_i6EYQ77gA-gLJ3xOTtq6K7hpgCREwLfbuNMXruJdFta9-ai9bYk4cTMbhQgRh9SCkE3yt46X4E0qOVADDdga3TMRSLnFscFYr-_s4Sd2sgykmnFa4-hdgX9599FiW_RX5VYGH9B1jyj748_CAu4VgqqTDwxUx8w556tCWY7mlb1r84RWuip72e4H8-HkUuBUoFeD4aw9m1HOUfgwx7ixDqJUFOmq9F-LeKLTZ2Ap6fobRuaUiaSqHsCWvuy9XWe5KWBiZv6bUJ8oAuqkA/1a6758d872929c8d41a7629db52a831f7/c52_lb_553_300_t10.m3u8
+#EXTINF:-1 group-title="经典休闲话剧" tvg-name="武林外传" tvg-logo="https://epg.112114.xyz/logo/武林外传.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",武林外传
+http://39.153.130.167:35455/huya/21059598
+#EXTINF:-1 group-title="经典休闲话剧" tvg-name="武林外传电影" tvg-logo="https://epg.112114.xyz/logo/武林外传.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",武林外传
+https://txmov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDQ0NTlfNDAzMDAxOTlfNjM2NzgyNjQ2ODFfMF8z_b_B9d8e425d16140ae0f37139b7ee6b0a84.mp4
+#EXTINF:-1 group-title="经典休闲话剧" tvg-name="地下交通站" tvg-logo="https://epg.112114.xyz/logo/地下交通站.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地下交通站
+http://39.153.130.167:35455/huya/11342433
+#EXTINF:-1 group-title="经典休闲话剧" tvg-name="地下交通站" tvg-logo="https://epg.112114.xyz/logo/地下交通站.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地下交通站
+http://39.153.130.167:35455/huya/11342433
+#EXTINF:-1 group-title="经典休闲话剧" tvg-name="地下交通站" tvg-logo="https://epg.112114.xyz/logo/地下交通站.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地下交通站
+https://isus.cc/php/huya.php?id=11342433
+#EXTINF:-1 group-title="经典休闲话剧" tvg-name="地下交通站" tvg-logo="https://epg.112114.xyz/logo/地下交通站.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地下交通站
+http://tv.ximix.us/huya/11342433
