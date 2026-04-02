@@ -1,0 +1,179 @@
+0成本搭建自己的直播源代理：山东省级电视频道
+今天分享一下山东省级电视台电视频道的代理部署计划。这个简单，速度也很快，可以看看测试
+效果测试：（随时删除，因为有请求次数限制，适合人数不多的使用）
+http://sd.zubo.cc.cd/
+再次说明下，此类代理，仅适合个人使用，自己部署自己看就可以了，因为每天免费连接数只有10万次，不要看着数字挺大，其实每次连接就几百了。
+请访问你的项目首页获取以下说明：
+山东卫视（标识：sdws | ID：1）
+新闻频道（标识：xwpd | ID：3）
+齐鲁频道（标识：qlpd | ID：5）
+体育休闲频道（标识：tyxx | ID：7）
+生活频道（标识：shpd | ID：9）
+综艺频道（标识：zypd | ID：11）
+文旅频道（标识：wlpd | ID：13）
+农科频道（标识：nkpd | ID：15）
+少儿频道（标识：sepd | ID：17）
+连接的时候因为需要通过cf的服务器，会有一点点慢，但是连接以后就是国内服务器了，官网的源，很快。
+经常看这些频道的人，强烈建议你自己部署一下这个免费代理，1分钟即可部署成功，再也不用担心别人的代理失效了。
+部署代码内容如下：（完整复制即可，无需换行）
+// 混淆后的核心逻辑 - 功能完全不变
+const _0x598d = {
+  'sdws': [1, ''],
+  'xwpd': [3, ''],
+  'qlpd': [5, ''],
+  'tyxx': [7, ''],
+  'shpd': [9, ''],
+  'zypd': [11, ''],
+  'wlpd': [13, ''],
+  'nkpd': [15, ''],
+  'sepd': [17, '']
+};
+const _0x4872 = [
+  { 'name': 'TXT/M3U互转', 'url': 'https://www.9kds.com/tool/exchange.html' },
+  { 'name': '酒店源获取', 'url': 'https://www.9kds.com/tool/9/' },
+  { 'name': '自建接口', 'url': 'https://www.9kds.com/tool/txt/' },
+  { 'name': '直播源下载', 'url': 'https://tv.9kds.com/' }
+];
+
+async function _0x2c7a(_0x1e89) {
+  const _0x3d45 = _0x1f9a("6262393735383763666138356563653535343961336432353766373931396633");
+  const _0x4b86 = _0x1f9a("30303030303030303030303030303030");
+  const _0x5d78 = Uint8Array.from(atob(_0x1e89), c => c.charCodeAt(0));
+  const _0x2e95 = await crypto.subtle.importKey('raw', _0x3d45, { 'name': 'AES-CBC' }, false, ['decrypt']);
+  const _0x1a6f = await crypto.subtle.decrypt({ 'name': 'AES-CBC', 'iv': _0x4b86 }, _0x2e95, _0x5d78);
+  return new TextDecoder().decode(_0x1a6f);
+}
+
+function _0x1f9a(_0x5c8b) {
+  return new Uint8Array((_0x5c8b.match(/.{1,2}/g) || []).map(_0x4e7b => parseInt(_0x4e7b, 16)));
+}
+
+function _0x5a8d() {
+  let _0x3b79 = '<div class="channel-list"><h3>直播频道列表</h3><ul>';
+  for (const [_0x2d6f, _0x1d7a] of Object.entries(_0x598d)) {
+    _0x3b79 += `<li><a href="?id=${_0x2d6f}" class="channel-link" target="_blank">${_0x1d7a[2] ? _0x1d7a[2] : (() => {
+      const _0x4f8c = {
+        'sdws': '山东卫视',
+        'xwpd': '新闻频道',
+        'qlpd': '齐鲁频道',
+        'tyxx': '体育休闲频道',
+        'shpd': '生活频道',
+        'zypd': '综艺频道',
+        'wlpd': '文旅频道',
+        'nkpd': '农科频道',
+        'sepd': '少儿频道'
+      };
+      return _0x4f8c[_0x2d6f] + `（标识：${_0x2d6f} | ID：${_0x1d7a[0]}）`;
+    })()}</a></li>`;
+  }
+  _0x3b79 += '</ul></div>';
+
+  let _0x5e87 = '<div class="tool-links"><h3>工具链接</h3><ul>';
+  _0x4872.forEach(_0x3c8a => {
+    _0x5e87 += `<li><a href="${_0x3c8a.url}" target="_blank" class="tool-link">${_0x3c8a.name}</a></li>`;
+  });
+  _0x5e87 += '</ul></div>';
+
+  return `<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><title>山东广电直播 - 首页</title><style>* { margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, sans-serif; }body { max-width: 1000px; margin: 20px auto; padding: 0 20px; }h2 { color: #333; margin-bottom: 20px; border-bottom: 2px solid #4285f4; padding-bottom: 10px; }.channel-list, .tool-links { margin: 30px 0; }.channel-list h3, .tool-links h3 { color: #4285f4; margin-bottom: 15px; font-size: 18px; }.channel-list ul, .tool-links ul { list-style: none; }.channel-list li, .tool-links li { margin: 10px 0; padding: 10px; background: #f5f5f5; border-radius: 6px; }.channel-link, .tool-link { color: #4285f4; text-decoration: none; font-size: 16px; }.channel-link:hover, .tool-link:hover { text-decoration: underline; color: #1967d2; }.tool-link { display: flex; align-items: center; gap: 8px; }.tool-link::before { content: "🔧"; }.error-page a { color: #4285f4; text-decoration: none; }.error-page a:hover { text-decoration: underline; }</style></head><body><h2>山东广电直播系统</h2>${_0x3b79}${_0x5e87}</body></html>`;
+}
+
+addEventListener('fetch', _0x4d9b => {
+  _0x4d9b.respondWith(_0x1c89(_0x4d9b.request));
+});
+
+async function _0x1c89(_0x5b9d) {
+  const _0x4e9c = new URL(_0x5b9d.url);
+  const _0x2f8a = _0x4e9c.searchParams.get('id');
+
+  if (!_0x2f8a) {
+    return new Response(_0x5a8d(), {
+      'headers': { 'Content-Type': 'text/html; charset=utf-8' }
+    });
+  }
+
+  if (!_0x598d[_0x2f8a]) {
+    return new Response(`<div class="error-page"><h3>无效的频道ID！</h3><p>可用ID：${Object.keys(_0x598d).join(', ')}</p><p><a href="/" target="_blank">返回首页</a></p></div>`, {
+      'headers': { 'Content-Type': 'text/html; charset=utf-8' },
+      'status': 400
+    });
+  }
+
+  const _0x1d8c = _0x598d[_0x2f8a];
+  const _0x5c9d = Math.floor(Date.now() / 1000);
+  const _0x3e8b = `huangye${_0x5c9d}211f68ea4aeb687a6561707b6e3523c84e`;
+  const _0x4f9d = await crypto.subtle.digest('MD5', new TextEncoder().encode(_0x3e8b));
+  const _0x2d9c = Array.from(new Uint8Array(_0x4f9d)).map(_0x1e9b => _0x1e9b.toString(16).padStart(2, '0')).join('');
+
+  const _0x1f8d = `https://sdxw.iqilu.com/v1/app/play/tv${_0x1d8c[1]}/live?e=1&e=1`;
+  const _0x2b8e = await fetch(_0x1f8d, {
+    'method': 'GET',
+    'headers': {
+      'version': '10.1.1',
+      'orgid': '21',
+      'platform': `android${_0x5c9d}`,
+      'imei': '7f918d21082ed7eb',
+      'CQ-AGENT': '{os:android,imei:7f918d21082ed7eb,osversion:7.1.1,network:wifi,device_model:OPPO R9s,version:10.1.1,brand:oppo,core:2.0.0}',
+      'timestamp': '',
+      'noncestr': 'huangye',
+      'sign': _0x2d9c,
+      'User-Agent': 'chuangqi.o.21.com.iqilu.ksd/10.1.1',
+      'Host': 'sdxw.iqilu.com',
+      'Connection': 'Keep-Alive'
+    },
+    'cf': { 'tls': { 'rejectUnauthorized': false } }
+  });
+
+  const _0x3c9e = await _0x2b8e.text();
+  const _0x4d8f = await _0x2c7a(_0x3c9e);
+  const _0x5e9a = JSON.parse(_0x4d8f);
+
+  let _0x1b9d = '';
+  for (const _0x3d8b of _0x5e9a['data']) {
+    if (_0x3d8b['id'] == _0x1d8c[0]) {
+      _0x1b9d = _0x3d8b['stream'];
+      break;
+    }
+  }
+
+  if (_0x1b9d) {
+    return Response.redirect(_0x1b9d, 302);
+  } else {
+    return new Response(`<div class="error-page"><h3>未找到${(() => {
+      const _0x4f8c = {
+        'sdws': '山东卫视',
+        'xwpd': '新闻频道',
+        'qlpd': '齐鲁频道',
+        'tyxx': '体育休闲频道',
+        'shpd': '生活频道',
+        'zypd': '综艺频道',
+        'wlpd': '文旅频道',
+        'nkpd': '农科频道',
+        'sepd': '少儿频道'
+      };
+      return _0x4f8c[_0x2f8a];
+    })()}的直播流！</h3><p><a href="/" target="_blank">返回首页</a></p></div>`, {
+      'headers': { 'Content-Type': 'text/html; charset=utf-8' },
+      'status': 404
+    });
+  }
+}
+使用指南：
+操作之前，请看以下几篇文章，有域名已经使用cloudflare解析的略过。
+免费域名并绑定到clouflare
+cloudflare创建workers and pages 具体流程，通用的，以后每篇文章就不再重复，直接参考下面这篇即可。
+0成本搭建自己的直播源代理：斗鱼篇
+cf搭建代理源相关内容推荐：
+0成本搭建自己的直播源代理：学习强国电影篇
+0成本搭建自己的直播源代理：虎牙篇
+0成本搭建自己的直播源代理：斗鱼篇
+0成本搭建自己的直播源代理：哔哩哔哩B站篇
+
+0成本搭建自己的直播源代理：抖音篇
+
+0成本搭建自己的直播源代理：江苏电视台直播源（cf部署代码）
+0成本搭建自己的直播源代理：北京电视台（cf部署代码）
+0成本搭建自己的直播源代理：山西电视台直播源（cf部署代码）
+0成本搭建自己的直播源代理：陕西电视台电视频道及广播直播源（cf部署代码）
+学习强国31个卫视频道cf部署代码，0成本搭建自己的直播源代理
+0成本搭建自己的直播源代理：云南省级电视频道及20几个地方电视频道（cf部署代码）
+
