@@ -3,41 +3,28 @@ export default {
     const url = new URL(request.url);
 
     // ===== 配置 =====
-    const BOT_TOKEN = "8381532521:AAHmbHW1oc3xeQd-OyP6lAOUAkC20lytxuM"; // ← 你的 Bot Token
-    const CHAT_ID = "5470030079";                               // ← 你的 Chat ID
+    const BOT_TOKEN = "8381532521:AAHmbHW1oc3xeQd-OyP6lAOUAkC20lytxuM";
+    const CHAT_ID = "5470030079";
     // ===============
 
-    // 客户端信息
     const ip = request.headers.get("CF-Connecting-IP") || "unknown";
     const ua = request.headers.get("User-Agent") || "unknown";
     const time = new Date().toLocaleString("zh-CN");
 
-    console.log(`Access: ${url.pathname} from ${ip}`);
-
-    // TG 消息
-    const message = `
-📺 IPTV 订阅被访问
-------------------
-🕒 时间：${time}
-🌐 IP：${ip}
-📂 路径：${url.pathname}
-🧭 UA：${ua}
-`.trim();
-
-    // ✅ 后台发送 TG，不阻塞 M3U
+    // TG 通知（后台）
     ctx.waitUntil(
       fetch(`https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           chat_id: CHAT_ID,
-          text: message,
+          text: `📺 IPTV 访问\n时间：${time}\nIP：${ip}\n路径：${url.pathname}`,
           disable_web_page_preview: true
         })
       }).catch(() => {})
     );
 
-    // ✅ M3U 内容（换成你自己的）
+    // ✅ IPTV 标准 M3U（不要乱加注释）
     const m3u = `#EXTM3U
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
 #EXTINF:-1 group-title="❤微信号: jingeng" tvg-name="更新时间2026.3.31" tvg-logo="https://epg.112114.xyz/logo/更新时间2026.3.31.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",www.jingeng.cn
@@ -223,12 +210,12 @@ https://isus.cc/php/huya.php?id=11342433
 http://tv.ximix.us/huya/11342433
 `;
 
-    // ✅ 强制不缓存（IPTV 非常重要）
-    return new Response(mlu, {
+    // ✅ 关键点：Content-Type + 无 BOM + 无缓存
+    return new Response(m3u, {
       status: 200,
       headers: {
         "Content-Type": "audio/x-mpegurl; charset=utf-8",
-        "Cache-Control": "no-store, no-cache, must-revalidate, max-age=0",
+        "Cache-Control": "no-store, no-cache, must-revalidate",
         "Pragma": "no-cache",
         "Expires": "0"
       }
