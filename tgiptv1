@@ -1,0 +1,68 @@
+export default {
+  async fetch(request, env, ctx) {
+    const url = new URL(request.url);
+
+    // ======== 配置区（必填）========
+    const BOT_TOKEN = "123456789:ABCdefGhIJKlmNoPQRstUvWxYz"; // ← 换成你的 Bot Token
+    const CHAT_ID = "12345678";                               // ← 换成你的 Chat ID
+    // ============================
+
+    // 仅处理 /iptv/ 路径下的请求
+    if (!url.pathname.startsWith("/iptv/")) {
+      return new Response("Not Found", { status: 404 });
+    }
+
+    // 获取客户端信息
+    const ip = request.headers.get("CF-Connecting-IP") || "Unknown IP";
+    const ua = request.headers.get("User-Agent") || "Unknown UA";
+    const path = url.pathname;
+    const time = new Date().toLocaleString("zh-CN");
+
+    // 打印日志到 Cloudflare 控制台（用于调试）
+    console.log(`[IPTV Access] Path: ${path}, IP: ${ip}`);
+
+    // 构造 TG 消息
+    const tgMessage = `
+📺 IPTV 订阅更新/访问
+------------------------
+🕒 时间：${time}
+🌐 IP：${ip}
+📂 路径：${path}
+🧭 UA：${ua}
+    `.trim();
+
+    // ✅ 关键：使用 ctx.waitUntil 确保 TG 发送完成，不阻塞 M3U 返回
+    ctx.waitUntil(
+      fetch(`https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          chat_id: CHAT_ID,
+          text: tgMessage,
+          disable_web_page_preview: true,
+        }),
+      }).catch(err => console.error("TG Send Error:", err))
+    );
+
+    // ✅ 你的 M3U 内容（在这里替换成你自己的频道列表）
+    const m3uContent = `#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/CCTV-1.svg/120px-CCTV-1.svg.png" group-title="央视",CCTV-1 综合
+http://example.com/stream1
+#EXTINF:-1 tvg-name="CCTV2",CCTV-2 财经
+http://example.com/stream2
+#EXTINF:-1 tvg-name="TestChannel",测试频道
+http://example.com/test.m3u8
+`;
+
+    // ✅ 返回 M3U，并强制禁用所有缓存
+    return new Response(m3uContent, {
+      status: 200,
+      headers: {
+        "Content-Type": "audio/x-mpegurl; charset=utf-8",
+        "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0",
+        "Pragma": "no-cache",
+        "Expires": "0",
+      },
+    });
+  },
+};
