@@ -3,8 +3,8 @@ export default {
     const url = new URL(request.url);
 
     // ===== 配置 =====
-    const BOT_TOKEN = "8381532521:AAHmbHW1oc3xeQd-OyP6lAOUAkC20lytxuM";
-    const CHAT_ID = "5470030079";
+    const BOT_TOKEN = "";
+    const CHAT_ID = "";
     // ===============
 
     const ip = request.headers.get("CF-Connecting-IP") || "unknown";
