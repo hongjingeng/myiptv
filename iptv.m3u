@@ -15,9 +15,13 @@ https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
 #EXTINF:-1 group-title="佛教电视台" tvg-name="孝廉电视" tvg-logo="https://tv.jingeng.cn/xldst.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",孝廉电视
 http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 #EXTINF:-1 group-title="佛教电视台" tvg-name="孝廉电视" tvg-logo="https://tv.jingeng.cn/xldst.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",孝廉电视
-https://proxy.api.030101.xyz/http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
+https://px.114.ae/http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 #EXTINF:-1 group-title="佛教电视台" tvg-name="佛衛電視慈悲台" tvg-logo="https://tv.jingeng.cn/bts_logo.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",佛衛電視慈悲台
 http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/playlist.m3u8
+#EXTINF:-1 group-title="佛教电视台" tvg-name="佛衛電視慈悲台" tvg-logo="https://tv.jingeng.cn/bts_logo.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",佛衛電視慈悲台
+https://px.114.ae/http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/playlist.m3u8
+#EXTINF:-1 group-title="佛教电视台" tvg-name="佛衛電視慈悲台" tvg-logo="https://tv.jingeng.cn/bts_logo.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",佛衛電視慈悲台
+https://px.114.ae/http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8
 #EXTINF:-1 group-title="佛教电视台" tvg-name="佛衛電視慈悲台" tvg-logo="https://tv.jingeng.cn/bts_logo.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",佛衛電視慈悲台
 http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8
 #EXTINF:-1 group-title="佛教电视台" tvg-name="[暂无源]正德電視台" tvg-logo="https://tv.jingeng.cn/zhengde.svg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",正德電視台
@@ -48,10 +52,16 @@ https://v1-cp.ssrcdn.com/ksc2/irpkoJpf7i8sZZSavRch8Ung0eJaH1zZ56t7GDo-G4kW2kb9mS
 https://k0u70y30ycay97z.djvod.ndcimgs.com/upic/2026/04/02/21/BMjAyNjA0MDIyMTM3MzdfNTQxMTA3NzIxNl8xOTE5OTAwNjg1MzVfMF8z_b_B8146d716cc6c96b35cf8c5b858c2ccfb.mp4?tag=1-1775138730-unknown-0-uljzviqily-5fc6395fe9f7c8dc&provider=self&clientCacheKey=3xr2wfd2fm62w2q_b.mp4&di=b7fd0f83&bp=10004&x-ks-ptid=191990068535&kwai-not-alloc=self-cdn&kcdntag=p:Fujian;i:ChinaMobile;ft:UNKNOWN;h:COLD;pn:kuaishouVideoProjection&ocid=88&tt=b&ss=vps
 #EXTINF:-1 group-title="淨空老法師" tvg-name="大方廣佛華嚴經" tvg-logo="https://tv.jingeng.cn/xldst.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",大方廣佛華嚴經
 https://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live2/chunklist.m3u8
+#EXTINF:-1 group-title="淨空老法師" tvg-name="大方廣佛華嚴經" tvg-logo="https://tv.jingeng.cn/xldst.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",大方廣佛華嚴經
+https://px.114.ae/https://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live2/chunklist.m3u8
 #EXTINF:-1 group-title="阿弥陀佛" tvg-name="阿弥陀佛" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",阿弥陀佛
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="阿弥陀佛" tvg-name="阿弥陀佛" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",阿弥陀佛
+https://px.114.ae/https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 group-title="阿弥陀佛" tvg-name="阿弥陀佛1" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",阿弥陀佛1
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 group-title="阿弥陀佛" tvg-name="阿弥陀佛1" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",阿弥陀佛1
+https://px.114.ae/http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 #EXTINF:-1 group-title="基督教电视台" tvg-name="希望電視台" tvg-logo="https://chinesehope.tv/css/img/HopeChannel-horizontal_zh.svg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",希望電視台
 https://cdn-kr-icn.becdn.net/hcorg_jjs5dHCTs7w/s/jsl_nGL7123If9H/CgTAA/1080p/main.m3u8
 #EXTINF:-1 group-title="基督教电视台" tvg-name="goodtv2" tvg-logo="https://tv.jingeng.cn/goodtv.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",GOODTV2台（真理台）
