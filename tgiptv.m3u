@@ -3,8 +3,8 @@ export default {
     const url = new URL(request.url);
 
     // ===== 配置 =====
-    const BOT_TOKEN = "8381532521:AAHmbHW1oc3xeQd-OyP6lAOUAkC20lytxuM";
-    const CHAT_ID = "5470030079";
+    const BOT_TOKEN = "";
+    const CHAT_ID = "";
     const M3U_CONTENT = `#EXTM3U
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
 #EXTINF:-1 group-title="❤微信号: jingeng" tvg-name="更新时间2026.3.31" tvg-logo="https://epg.112114.xyz/logo/更新时间2026.3.31.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",www.jingeng.cn
