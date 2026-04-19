@@ -62,6 +62,8 @@ https://px.114.ae/https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 #EXTINF:-1 group-title="阿弥陀佛" tvg-name="阿弥陀佛1" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",阿弥陀佛1
 https://px.114.ae/http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 group-title="清泰(法云香堂)" tvg-name="南无阿弥陀佛" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",南无阿弥陀佛
+https://mpimg.cn/view.php/8f99af6d8b716f8c81117b425d853bc7.mp4
 #EXTINF:-1 group-title="清泰(法云香堂)" tvg-name="阿弥陀佛" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",阿弥陀佛
 https://mpimg.cn/view.php/eb9f68fa1eeef8bd2626abf4423943f4.mp4
 #EXTINF:-1 group-title="清泰(法云香堂)" tvg-name="观世音菩萨悲赞" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",观世音菩萨悲赞
@@ -80,11 +82,12 @@ https://mpimg.cn/view.php/516e038c5b65d2f234864c477430cc5c.mp4
 https://mpimg.cn/view.php/6f0e4f3290679058f108cfa2dc243c17.mp4
 #EXTINF:-1 group-title="清泰(法云香堂)" tvg-name="南无消灾延寿药师佛" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",南无消灾延寿药师佛
 https://mpimg.cn/view.php/ef880d5bc0fd506a0c7cbe0a855cb563.mp4
+#EXTINF:-1 group-title="清泰(法云香堂)" tvg-name="南无增福寿菩萨吉祥曲" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",南无增福寿菩萨吉祥曲
+https://mpimg.cn/view.php/c39c7e02ac25d6be5fbc63ea457ba774.mp4
 #EXTINF:-1 group-title="清泰(法云香堂)" tvg-name="普贤行愿品" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",普贤行愿品
 https://mpimg.cn/view.php/d9bdb3b8ded758f4593ec7f702a8b930.mp4
 #EXTINF:-1 group-title="清泰(法云香堂)" tvg-name="文殊菩萨心咒" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",文殊菩萨心咒
 https://mpimg.cn/view.php/52ee2e08e714f4bbc7e780717d227791.mp4
-
 #EXTINF:-1 group-title="基督教电视台" tvg-name="希望電視台" tvg-logo="https://chinesehope.tv/css/img/HopeChannel-horizontal_zh.svg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",希望電視台
 https://cdn-kr-icn.becdn.net/hcorg_jjs5dHCTs7w/s/jsl_nGL7123If9H/CgTAA/1080p/main.m3u8
 #EXTINF:-1 group-title="基督教电视台" tvg-name="goodtv2" tvg-logo="https://tv.jingeng.cn/goodtv.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",GOODTV2台（真理台）
