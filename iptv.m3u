@@ -64,6 +64,12 @@ http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 https://px.114.ae/http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 #EXTINF:-1 group-title="清泰(法云香堂)" tvg-name="观音大士悉号圆通" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",观音大士悉号圆通
 https://mpimg.cn/view.php/3f1f2d9adda9426b59d56769f34ebabb.mp4
+#EXTINF:-1 group-title="清泰(法云香堂)" tvg-name="燃灯祈愿文" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",燃灯祈愿文
+https://mpimg.cn/view.php/961d4be0347659452907f41e923d0139.mp4
+#EXTINF:-1 group-title="清泰(法云香堂)" tvg-name="清净法身佛" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",清净法身佛
+https://mpimg.cn/view.php/516e038c5b65d2f234864c477430cc5c.mp4
+#EXTINF:-1 group-title="清泰(法云香堂)" tvg-name="地藏王菩萨" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩萨
+https://mpimg.cn/view.php/6f0e4f3290679058f108cfa2dc243c17.mp4
 #EXTINF:-1 group-title="基督教电视台" tvg-name="希望電視台" tvg-logo="https://chinesehope.tv/css/img/HopeChannel-horizontal_zh.svg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",希望電視台
 https://cdn-kr-icn.becdn.net/hcorg_jjs5dHCTs7w/s/jsl_nGL7123If9H/CgTAA/1080p/main.m3u8
 #EXTINF:-1 group-title="基督教电视台" tvg-name="goodtv2" tvg-logo="https://tv.jingeng.cn/goodtv.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",GOODTV2台（真理台）
@@ -76,10 +82,6 @@ https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch
 http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
 #EXTINF:-1 group-title="基督教电视台" tvg-name="goodtv" tvg-logo="https://tv.jingeng.cn/stemiTV.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",stemiTV
 https://vod.stemitv.org/vod/gen/01/720p/720p.m3u8
-#EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视中文
-http://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视中文
-http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视中文
 http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 #EXTINF:-1 group-title="[三网]港澳台直播" tvg-name="凤凰卫视中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰卫视中文
@@ -128,14 +130,6 @@ rtmp://f13h.mine.nu/sat/tv051
 https://www.youtube.com/watch?v=6KlRR_DGhmI
 #EXTINF:-1 group-title=""[外网]台湾台直播" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",公视
 http://74.91.26.218:82/live/pts.m3u8
-#EXTINF:-1 group-title="🎞️电影直播" tvg-name="邵氏电影" tvg-logo="https://epg.112114.xyz/logo/邵氏电影.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",邵氏电影
-http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-#EXTINF:-1 group-title="🎞️电影直播" tvg-name="邵氏武侠" tvg-logo="https://epg.112114.xyz/logo/邵氏武侠.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",邵氏武侠
-http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
-#EXTINF:-1 group-title="🎞️电影直播" tvg-name="邵氏动作" tvg-logo="https://epg.112114.xyz/logo/邵氏动作.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",邵氏动作
-http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-#EXTINF:-1 group-title="🎞️电影直播" tvg-name="邵氏喜剧" tvg-logo="https://epg.112114.xyz/logo/邵氏喜剧.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",邵氏喜剧
-http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 #EXTINF:-1 group-title="福建" tvg-name="福建东南卫视高清" tvg-logo="https://epg.112114.xyz/logo/福建东南卫视高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",福建东南卫视高清
 http://120.76.248.139/live/bfgd/4200000483.m3u8
 #EXTINF:-1 group-title="福建" tvg-name="福建东南卫视高清" tvg-logo="https://epg.112114.xyz/logo/福建东南卫视高清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",福建东南卫视高清
