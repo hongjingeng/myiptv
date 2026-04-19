@@ -28,6 +28,9 @@ http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8
 https://www.youtube.com/watch?v=sX5Ad1GeUkw
 #EXTINF:-1 group-title="佛教电视台" tvg-name="[暂无源]正德電視台" tvg-logo="https://tv.jingeng.cn/zhengde.svg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",正德電視台
 https://proxy.api.030101.xyz/https://www.youtube.com/watch?v=sX5Ad1GeUkw
+#EXTINF:-1 group-title="观音菩萨" tvg-name="六字大明咒" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",六字大明咒
+https://v1-cp.ssrcdn.com/ksc2/fpUsDVJongNK4fJTNJ7H-lFHTdMeML2r0d7o7YKR-LwER6WDjxSyo_drQir35SJACq36u7nSmMiEMF5p9ANN4A.mp4
+https://v23-3.kwaicdn.com/upic/2026/04/19/12/BMjAyNjA0MTkxMjE2NTRfNTQxMTA3NzIxNl8xOTM1MjU3NzI2MDRfMF8z_b_Bd0c4c084a653606fc3c69547816be38f.mp4
 #EXTINF:-1 group-title="地藏王菩薩" tvg-name="地藏王菩薩超渡心咒108遍" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩超渡心咒108遍
 https://txmov2.a.kwimgs.com/ksc1/swg1T6nDtwh2QOTzvHm_R7ajuUEVwCynOuCf-k-GGYMM6oiF8GufPGrOYjGfp3Qq15QH4Eo2mGpx7KsZvv25xWuf-TBN9c2YFQpXOK94QSHApJhz2622LchSFbjj-bXZO4GeRqEfiHJYvtSqZn8mh7JAFJFZ9y8f7-c4hpczWR_KvvRZcpyV6mF9obA7hzRZ.mp4
 #EXTINF:-1 group-title="地藏王菩薩" tvg-name="地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra
@@ -72,8 +75,6 @@ https://mpimg.cn/view.php/5ab0d249c4fca6e49e3eb5f22ce73f16.mp4
 https://mpimg.cn/down.php/d5aca5839d9f5212c8911e9b6aac4706.mp4
 #EXTINF:-1 group-title="清泰(法云香堂)" tvg-name="观音大士悉号圆通" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",观音大士悉号圆通
 https://mpimg.cn/view.php/3f1f2d9adda9426b59d56769f34ebabb.mp4
-#EXTINF:-1 group-title="清泰(法云香堂)" tvg-name="六字大明咒" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",六字大明咒
-https://v1-cp.ssrcdn.com/ksc2/fpUsDVJongNK4fJTNJ7H-lFHTdMeML2r0d7o7YKR-LwER6WDjxSyo_drQir35SJACq36u7nSmMiEMF5p9ANN4A.mp4
 #EXTINF:-1 group-title="清泰(法云香堂)" tvg-name="观音偈" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",观音偈
 https://mpimg.cn/view.php/1036458c014a0f5caac8773ca3fac2be.mp4
 #EXTINF:-1 group-title="清泰(法云香堂)" tvg-name="慈航唤归" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",慈航唤归
