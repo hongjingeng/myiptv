@@ -134,7 +134,7 @@ http://115.190.252.60:26759/fj/fj.php?id=fj-qz-3-1
 http://115.190.252.60:26759/fj/fj.php?id=fj-qz-4-1
 #EXTINF:-1 group-title="泉州" tvg-name="德化电视台" tvg-logo="https://epg.112114.xyz/logo/泉州1套.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",德化电视台
 http://115.190.252.60:26759/fj/fj.php?id=fj-qz-5-1
-#EXTINF:-1 group-title="泉州" tvg-name="永春电视台" tvg-logo="https://epg.112114.xyz/logo/泉州1套.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",德化电视台
+#EXTINF:-1 group-title="泉州" tvg-name="永春电视台" tvg-logo="https://epg.112114.xyz/logo/泉州1套.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",永春电视台
 http://115.190.252.60:26759/fj/fj.php?id=fj-qz-7-1
 #EXTINF:-1 group-title="厦门" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门卫视
 http://115.190.252.60:26759/fj/fj.php?id=fj-xm-1-1
@@ -149,12 +149,8 @@ http://115.190.252.60:26759/fj/fj.php?id=fj-xm-5-1
 #EXTINF:-1 group-title="港澳台直播" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 group-title="港澳台直播" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰中文
-http://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 group-title="港澳台直播" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰中文
 http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="港澳台直播" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰中文
 http://iptv.4666888.xyz/iptv2A.php?id=27
-#EXTINF:-1 group-title="港澳台直播" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰资讯
-http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 group-title="港澳台直播" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰资讯
 https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
