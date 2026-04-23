@@ -28,29 +28,35 @@ http://btsw-ott2b.cdn.hinet.net/live_bts/btsw01/chunklist.m3u8
 https://www.youtube.com/watch?v=sX5Ad1GeUkw
 #EXTINF:-1 group-title="佛教电视台" tvg-name="[暂无源]正德電視台" tvg-logo="https://tv.jingeng.cn/zhengde.svg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",正德電視台
 https://proxy.api.030101.xyz/https://www.youtube.com/watch?v=sX5Ad1GeUkw
+#EXTINF:-1 group-title="观音菩萨/台灣靈巖山寺唱頌" tvg-name="大悲咒" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",大悲咒 共七遍The Great Compassion Mantra
+https://www.panurl.cn/view.php/824e25c9798dffb7777693d964c6e691.mkv
+https://www.panurl.cn/view.php/d2de44128fad777bd93232012ede48b9.mp4
+#EXTINF:-1 group-title="观音菩萨/嘹亮" tvg-name="大悲咒" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",大悲咒 【附加字幕 + 汉语拼音】
+https://www.panurl.cn/view.php/341299881c9ba1ced12c7d9acb9dc83d.mp4
 #EXTINF:-1 group-title="观音菩萨" tvg-name="六字大明咒" tvg-logo="https://tv.jingeng.cn/amtf1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",六字大明咒
 https://k0u70y5yd9yc5zw2409x8c34xe00x100xx5z.djvod.ndcimgs.com/upic/2026/04/19/12/BMjAyNjA0MTkxMjE2NTRfNTQxMTA3NzIxNl8xOTM1MjU3NzI2MDRfMF8z_b_Bd0c4c084a653606fc3c69547816be38f.mp4
-#EXTINF:-1 group-title="地藏王菩薩" tvg-name="地藏王菩薩超渡心咒108遍" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩超渡心咒108遍
+https://www.panurl.cn/view.php/6920e50ee7fed6594c0388b1fd002712.mkv
+#EXTINF:-1 group-title="地藏王菩薩/心咒" tvg-name="地藏王菩薩超渡心咒108遍" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩超渡心咒108遍
 https://txmov2.a.kwimgs.com/ksc1/swg1T6nDtwh2QOTzvHm_R7ajuUEVwCynOuCf-k-GGYMM6oiF8GufPGrOYjGfp3Qq15QH4Eo2mGpx7KsZvv25xWuf-TBN9c2YFQpXOK94QSHApJhz2622LchSFbjj-bXZO4GeRqEfiHJYvtSqZn8mh7JAFJFZ9y8f7-c4hpczWR_KvvRZcpyV6mF9obA7hzRZ.mp4
-#EXTINF:-1 group-title="地藏王菩薩" tvg-name="地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra
+#EXTINF:-1 group-title="地藏王菩薩/真言" tvg-name="地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地藏王菩薩滅定業真言/Ksitigarbha’s Karma Eliminating Mantra
 https://txmov2.a.kwimgs.com/ksc1/uAU7MgMHpx_3KBOWUySopcdtH6S2LP_jQC-QJpABQrd06odi6tgb6Ir9azxu5hfXoDBNFiJv7-RT_NOoPVoaJOb4unn9uAMTqf6ouOzpuYHgbLQvb0dtUs7qKew8Ub0zIivmY4rM9f8tYcDqBYV5IUFG1N4kDsG6cJvHzyV-ozP_onLTvYwbHnuL2VYnyjl-.mp4
-#EXTINF:-1 group-title="地藏王菩薩" tvg-name="南無地藏王菩薩聖號~ Namo Ksitigarbha Bodhisattva" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",南無地藏王菩薩聖號~ Namo Ksitigarbha Bodhisattva
+#EXTINF:-1 group-title="地藏王菩薩/圣号" tvg-name="南無地藏王菩薩聖號~ Namo Ksitigarbha Bodhisattva" tvg-logo="https://tv.jingeng.cn/dzwps.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",南無地藏王菩薩聖號~ Namo Ksitigarbha Bodhisattva
 https://txmov2.a.kwimgs.com/ksc1/2CwB2qdHvxfIFKtTF7g6T3TAjQQhL8uMhBue09P2uIhcc2IKlojNCoZbe4EFccWeIuzMM_hrJZUxE6d2XbPoAbZlI8wXg2qwpOFerIfeWdLTJoughdlFwJm0EgoMVPdvOHh0NRuZDEYnYlPycvfU0kjd1LbTjnZ6ppZsv7eFn52f-PhHQ4S9toJ46gjcMx4K.mp4
 #EXTINF:-1 group-title="心经" tvg-name="心经音樂 The Heart Sutra" tvg-logo="https://tv.jingeng.cn/xj.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",心經--Buddhist song 心经 The Heart Sutra
 https://txmov2.a.kwimgs.com/ksc1/B68yCgXUeUW4DH6VepUOzj4KlawQ0VmVpyMWZsSigdAz3fO6Wax6eXbZ6BmxEeHUtn7-f8vdALNgqSCfr6Lr6vZJA3IIeDVoQD-gv8eAzab4cmpyoccwKIvkjt-0ejwlyzDV0h00h8_wZXP_tBWIl8hUuHqV_xkpeLP_QK8ddHReUTCvCaQIT-qkTON1UQvW.mp4
 #EXTINF:-1 group-title="往生咒" tvg-name="《往生咒》108遍法鼓山剪輯加長版高清" tvg-logo="https://tv.jingeng.cn/wsz.gif" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",《往生咒》108遍法鼓山剪輯加長版高清
 https://txmov2.a.kwimgs.com/ksc1/KRKkD17-7Hpp6K24HXz7_1zuD0-9GHdevPyq7b6S29c4tIawvfHOu_6iLqKJXGzM8v9s-wpbG8UDm_bYrz934sdZB7Jec53Mxnx_pmflk297LPawLZzqIqKo1LZsfFreXElJ-QePOe51vI6rTEdOwI-oSIfV8lLPbmxhEfICl6SwwcNgLapcQEwmKGFGuJkw.mp4
-#EXTINF:-1 group-title="藥師佛" tvg-name="淨清淨身 心祛煩憂 願眾生遠離病苦 平安吉祥Peace and Blessings for All" tvg-logo="https://tv.jingeng.cn/MedecineBuddha.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",藥師佛心咒
+#EXTINF:-1 group-title="藥師佛/心咒" tvg-name="淨清淨身 心祛煩憂 願眾生遠離病苦 平安吉祥Peace and Blessings for All" tvg-logo="https://tv.jingeng.cn/MedecineBuddha.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",藥師佛心咒
 https://v2-cp.ssscdn.com/ksc2/a_QuFjRjdc88lyg5bzGD-zl-jnOFWg0Wu0JV6GkFR8ZywoZxWiFEep3262DKcVZC3pTYqsPbkLmVR0eoekX9fw.mp4?x-kcdn-pid=111636&pkey=AAWgNw0-fBvnUvcCBJgiuMAU6P6yjv6CXAIUYVB47feXzZHWIbzpzqn7L__AegHclmGJx83-w1Z8uXiOCSZU4x9Q8aQxndlgT8digp5kPetwpkAKj2LmtRcOxd6vlRpGqVw
-#EXTINF:-1 group-title="藥師佛" tvg-name="淨清淨身 心祛煩憂 願眾生遠離病苦 平安吉祥Peace and Blessings for All" tvg-logo="https://tv.jingeng.cn/MedecineBuddha.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",藥師佛心咒
+#EXTINF:-1 group-title="藥師佛/心咒" tvg-name="淨清淨身 心祛煩憂 願眾生遠離病苦 平安吉祥Peace and Blessings for All" tvg-logo="https://tv.jingeng.cn/MedecineBuddha.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",藥師佛心咒
 http://120.226.145.243/txmov2.a.kwimgs.com/ksc1/1DbsNDgpKBlFp9aUGWFx8csM5efjUjA2SLI8aQ8QKuSHh1UUiNGvtEnXSXIMUFrV8NZ73ch4oEVFc5blwEqCyyma19iTFTv2uCKPTAxDkv-eUWXnbrMFvSpui9fYlSTQ2nFubFbkZpBb0wFRqvrEYW-HMrekJlM24DjIOJOqR_qAD38guVaVa7k9nMXDYA5d.mp4
-#EXTINF:-1 group-title="藥師佛" tvg-name="淨清淨身 心祛煩憂 願眾生遠離病苦 平安吉祥Peace and Blessings for All" tvg-logo="https://tv.jingeng.cn/MedecineBuddha.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",藥師佛心咒
+#EXTINF:-1 group-title="藥師佛/心咒" tvg-name="淨清淨身 心祛煩憂 願眾生遠離病苦 平安吉祥Peace and Blessings for All" tvg-logo="https://tv.jingeng.cn/MedecineBuddha.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",藥師佛心咒
 http://120.226.145.243/txmov2.a.kwimgs.com/ksc1/1DbsNDgpKBlFp9aUGWFx8csM5efjUjA2SLI8aQ8QKuSHh1UUiNGvtEnXSXIMUFrV8NZ73ch4oEVFc5blwEqCyyma19iTFTv2uCKPTAxDkv-eUWXnbrMFvSpui9fYlSTQ2nFubFbkZpBb0wFRqvrEYW-HMrekJlM24DjIOJOqR_qAD38guVaVa7k9nMXDYA5d.mp4
-#EXTINF:-1 group-title="绿度母" tvg-name="寧靜佛曲｜綠度母心咒｜1小時版" tvg-logo="https://tv.jingeng.cn/lvdumu.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",綠度母心咒
+#EXTINF:-1 group-title="绿度母/心咒" tvg-name="寧靜佛曲｜綠度母心咒｜1小時版" tvg-logo="https://tv.jingeng.cn/lvdumu.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",綠度母心咒
 https://k0u70y30ycay97z.djvod.ndcimgs.com/upic/2026/04/02/21/BMjAyNjA0MDIyMTM3MzdfNTQxMTA3NzIxNl8xOTE5OTAwNjg1MzVfMF8z_b_B8146d716cc6c96b35cf8c5b858c2ccfb.mp4
-#EXTINF:-1 group-title="绿度母" tvg-name="寧靜佛曲｜綠度母心咒｜1小時版" tvg-logo="https://tv.jingeng.cn/lvdumu.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",綠度母心咒
+#EXTINF:-1 group-title="绿度母/心咒" tvg-name="寧靜佛曲｜綠度母心咒｜1小時版" tvg-logo="https://tv.jingeng.cn/lvdumu.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",綠度母心咒
 https://v1-cp.ssrcdn.com/ksc2/irpkoJpf7i8sZZSavRch8Ung0eJaH1zZ56t7GDo-G4kW2kb9mSKZhBsEZaiDzAjAqVSr4Lp_YDghhGc0QINqZQ.mp4?x-kcdn-pid=111636&pkey=AAXRrDgEKE-nOaul4WRRqOIBW-bped-tpFbxXfMkhHeLEV4guRlDviSxq-kffH116d50cn0d7dInbwbO1u_lAwM4TwJR1wnj8silmhUGYvg-vcB2mMDH3DMs3GJZw3rNmOI
-#EXTINF:-1 group-title="绿度母" tvg-name="寧靜佛曲｜綠度母心咒｜1小時版" tvg-logo="https://tv.jingeng.cn/lvdumu.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",綠度母心咒
+#EXTINF:-1 group-title="绿度母/心咒" tvg-name="寧靜佛曲｜綠度母心咒｜1小時版" tvg-logo="https://tv.jingeng.cn/lvdumu.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",綠度母心咒
 https://k0u70y30ycay97z.djvod.ndcimgs.com/upic/2026/04/02/21/BMjAyNjA0MDIyMTM3MzdfNTQxMTA3NzIxNl8xOTE5OTAwNjg1MzVfMF8z_b_B8146d716cc6c96b35cf8c5b858c2ccfb.mp4?tag=1-1775138730-unknown-0-uljzviqily-5fc6395fe9f7c8dc&provider=self&clientCacheKey=3xr2wfd2fm62w2q_b.mp4&di=b7fd0f83&bp=10004&x-ks-ptid=191990068535&kwai-not-alloc=self-cdn&kcdntag=p:Fujian;i:ChinaMobile;ft:UNKNOWN;h:COLD;pn:kuaishouVideoProjection&ocid=88&tt=b&ss=vps
 #EXTINF:-1 group-title="淨空老法師" tvg-name="大方廣佛華嚴經" tvg-logo="https://tv.jingeng.cn/xldst.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",大方廣佛華嚴經
 https://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live2/chunklist.m3u8
