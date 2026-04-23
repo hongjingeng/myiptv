@@ -121,3 +121,13 @@ http://39.153.130.167:35455/huya/11342433
 https://isus.cc/php/huya.php?id=11342433
 #EXTINF:-1 group-title="经典休闲话剧" tvg-name="地下交通站" tvg-logo="https://epg.112114.xyz/logo/地下交通站.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地下交通站
 http://tv.ximix.us/huya/11342433
+#EXTINF:-1 group-title="厦门" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门卫视
+http://115.190.252.60:26759/fj/fj.php?id=fj-xm-1-1
+#EXTINF:-1 group-title="厦门" tvg-name="厦门电视台1套" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门电视台1套
+http://115.190.252.60:26759/fj/fj.php?id=fj-xm-2-1
+#EXTINF:-1 group-title="厦门" tvg-name="厦门电视台2套" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门电视台2套
+http://115.190.252.60:26759/fj/fj.php?id=fj-xm-3-1
+#EXTINF:-1 group-title="厦门" tvg-name="厦门移动电视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门移动电视
+http://115.190.252.60:26759/fj/fj.php?id=fj-xm-4-1
+#EXTINF:-1 group-title="厦门" tvg-name="集美电视台" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",集美电视台
+http://115.190.252.60:26759/fj/fj.php?id=fj-xm-5-1
