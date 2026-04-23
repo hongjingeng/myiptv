@@ -122,22 +122,20 @@ https://isus.cc/php/huya.php?id=11342433
 #EXTINF:-1 group-title="经典休闲话剧" tvg-name="地下交通站" tvg-logo="https://epg.112114.xyz/logo/地下交通站.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地下交通站
 http://tv.ximix.us/huya/11342433
 #EXTINF:-1 group-title="晋江" tvg-name="晋江电视台" tvg-logo="https://epg.112114.xyz/logo/晋江电视台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",晋江电视台
-http://115.190.252.60:26759/fj/fj.php?id=fj-qz-6-1
 https://live.ijjnews.com/jjtv/sd/live.m3u8
+http://115.190.252.60:26759/fj/fj.php?id=fj-qz-6-1
 #EXTINF:-1 group-title="泉州" tvg-name="泉州1套" tvg-logo="https://epg.112114.xyz/logo/泉州1套.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",泉州1套
-http://115.190.252.60:26759/fj/fj.php?id=fj-qz-1-1
 http://115.190.252.60:26759/fj/fj.php?id=fj-qz-1-2
 #EXTINF:-1 group-title="泉州" tvg-name="泉州4套" tvg-logo="https://epg.112114.xyz/logo/泉州4套.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",泉州4套闽南语
 http://115.190.252.60:26759/fj/fj.php?id=fj-qz-2-1
-http://live.qztv.cn/live/mny.m3u8
 #EXTINF:-1 group-title="泉州" tvg-name="石狮综合频道" tvg-logo="https://epg.112114.xyz/logo/石狮综合频道.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",石狮综合频道
-http://115.190.252.60:26759/fj/fj.php?id=fj-qz-3-1
 https://live-new.chinashishi.net/SSTV/sd/live.m3u8
+http://115.190.252.60:26759/fj/fj.php?id=fj-qz-3-1
 #EXTINF:-1 group-title="泉州" tvg-name="泉港电视台" tvg-logo="https://epg.112114.xyz/logo/泉港电视台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",泉港电视台
 http://115.190.252.60:26759/fj/fj.php?id=fj-qz-4-1
 #EXTINF:-1 group-title="泉州" tvg-name="德化电视台" tvg-logo="https://epg.112114.xyz/logo/德化电视台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",德化电视台
-http://115.190.252.60:26759/fj/fj.php?id=fj-qz-5-1
 https://play.cmptp.fjgdwl.com/live/63a563ec75764af588f3215b0afa2588.m3u8
+http://115.190.252.60:26759/fj/fj.php?id=fj-qz-5-1
 #EXTINF:-1 group-title="泉州" tvg-name="永春电视台" tvg-logo="https://epg.112114.xyz/logo/泉州1套.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",永春电视台
 http://115.190.252.60:26759/fj/fj.php?id=fj-qz-7-1
 #EXTINF:-1 group-title="厦门" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",厦门卫视
