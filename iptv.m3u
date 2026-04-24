@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
-#EXTINF:-1 group-title="❤微信号: jingeng" tvg-name="更新时间2026.4.23" tvg-logo="https://epg.112114.xyz/logo/更新时间2026.4.23.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",更新26.4.23
+#EXTINF:-1 group-title="❤微信号: jingeng" tvg-name="更新时间2026.4.24" tvg-logo="https://epg.112114.xyz/logo/更新时间2026.4.23.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",更新26.4.24
 https://mpimg.cn/view.php/978b5ce2ae3a19c6b3ba18875aa14c74.jpg
 #EXTINF:-1 group-title="佛教电视台" tvg-name="生命电视台" tvg-logo="https://tv.jingeng.cn/life.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",生命电视台
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
@@ -109,8 +109,6 @@ https://mpimg.cn/view.php/5848d9569f994b0326967ccf54b41fb8.mp4
 https://mpimg.cn/view.php/8fe4852c801f977a00c5d4e9c6eb7d32.mp4
 #EXTINF:-1 group-title="经典休闲话剧" tvg-name="武林外传" tvg-logo="https://epg.112114.xyz/logo/武林外传.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",武林外传
 https://lvbdcdncmn.inter.71edge.com/tslive/l1/c52_lb_553_300_t10/I67sb6wvoWaxfjPEdSuB8xyBShFln4Poub7LGIzPt5oGLcKaLXD21aR_t20nEIxJFmaf_i6EYQ77gA-gLJ3xOTtq6K7hpgCREwLfbuNMXruJdFta9-ai9bYk4cTMbhQgRh9SCkE3yt46X4E0qOVADDdga3TMRSLnFscFYr-_s4Sd2sgykmnFa4-hdgX9599FiW_RX5VYGH9B1jyj748_CAu4VgqqTDwxUx8w556tCWY7mlb1r84RWuip72e4H8-HkUuBUoFeD4aw9m1HOUfgwx7ixDqJUFOmq9F-LeKLTZ2Ap6fobRuaUiaSqHsCWvuy9XWe5KWBiZv6bUJ8oAuqkA/1a6758d872929c8d41a7629db52a831f7/c52_lb_553_300_t10.m3u8
-#EXTINF:-1 group-title="经典休闲话剧" tvg-name="武林外传" tvg-logo="https://epg.112114.xyz/logo/武林外传.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",武林外传
-http://39.153.130.167:35455/huya/21059598
 #EXTINF:-1 group-title="经典休闲话剧" tvg-name="武林外传电影" tvg-logo="https://epg.112114.xyz/logo/武林外传.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",武林外传
 https://txmov2.a.kwimgs.com/upic/2021/12/28/14/BMjAyMTEyMjgxNDQ0NTlfNDAzMDAxOTlfNjM2NzgyNjQ2ODFfMF8z_b_B9d8e425d16140ae0f37139b7ee6b0a84.mp4
 #EXTINF:-1 group-title="经典休闲话剧" tvg-name="地下交通站" tvg-logo="https://epg.112114.xyz/logo/地下交通站.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",地下交通站
@@ -156,7 +154,10 @@ http://115.190.252.60:26759/fj/fj.php?id=fj-zz-1-1
 http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 http://r.jdshipin.com/yDoTN
 https://cdn6.101.qzz.io/163189/fhhk
-#EXTINF:-1 group-title="港澳台直播" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰中文
+#EXTINF:-1 group-title="港澳台直播" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",
+https://smt2.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+http://php.jdshipin.com/smt.php?id=phoenixtv_hd
 http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$
 #EXTINF:-1 group-title="港澳台直播" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",凤凰中文
@@ -171,3 +172,9 @@ https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 https://cdn6.101.qzz.io/163189/fhzx
 http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 http://r.jdshipin.com/0Rp07
+http://cdn6.163189.xyz/163189/fhzx
+https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
+http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+http://php.jdshipin.com/smt.php?id=phoenixinfo_hd
+http://120.238.5.44:1698/hls/85/index.m3u8
