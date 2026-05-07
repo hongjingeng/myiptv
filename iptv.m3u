@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz"
-#EXTINF:-1 group-title="❤微信号: jingeng" tvg-name="更新时间2026.4.24" tvg-logo="https://epg.112114.xyz/logo/更新时间2026.4.23.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",更新26.4.24
+#EXTINF:-1 group-title="❤微信号: jingeng" tvg-name="更新时间2026.5.07" tvg-logo="https://epg.112114.xyz/logo/更新时间2026.5.07.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",更新26.5.07
 https://mpimg.cn/view.php/978b5ce2ae3a19c6b3ba18875aa14c74.jpg
 #EXTINF:-1 group-title="佛教电视台" tvg-name="生命电视台" tvg-logo="https://tv.jingeng.cn/life.jpg" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",生命电视台
 http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
@@ -363,7 +363,6 @@ http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 http://php.jdshipin.com/smt.php?id=phoenixinfo_hd
 http://120.238.5.44:1698/hls/85/index.m3u8
-
 #EXTINF:-1 group-title="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",东南卫视
 http://107.150.60.122/live/dnwshd.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
@@ -394,6 +393,9 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="台湾台" tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民視
 http://156.238.248.80:5566/4gtv-live215/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
 http://156.238.248.80:5566/4gtv-4gtv002/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="台湾台" tvg-name="民視新聞" tvg-logo="https://epg.112114.xyz/logo/民視新聞.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民視新聞
+http://156.238.248.80:5566/4gtv-live413/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+http://156.238.248.80:5566/litv-ftv13/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
 #EXTINF:-1 group-title="台湾台" tvg-name="民視第一台" tvg-logo="https://epg.112114.xyz/logo/民視第一台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民視第一台
 http://156.238.248.80:5566/4gtv-live403/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
 http://156.238.248.80:5566/4gtv-4gtv003/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
@@ -416,20 +418,19 @@ http://156.238.248.80:5566/4gtv-4gtv004/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSU
 http://156.238.248.80:5566/4gtv-4gtv006/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
 #EXTINF:-1 group-title="台湾台" tvg-name="民視旅遊" tvg-logo="https://epg.112114.xyz/logo/民視旅遊.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",民視旅遊
 http://156.238.248.80:5566/litv-ftv07/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
-
-
-滾動力 Rollor,http://156.238.248.80:5566/4gtv-live012/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
-
-
-經典卡通台,http://156.238.248.80:5566/4gtv-live022/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
-精選動漫台,http://156.238.248.80:5566/4gtv-live024/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
-ELTV生活英語台,http://156.238.248.80:5566/of-litv-xinchuang20/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
-
-NHK 新聞資訊台,http://156.238.248.80:5566/4gtv-live168/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
-民視新聞,http://156.238.248.80:5566/4gtv-live413/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
-民視新聞,http://156.238.248.80:5566/litv-ftv13/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
-
-半島國際新聞台,http://156.238.248.80:5566/4gtv-live157/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
-CNBC Asia 財經台,http://156.238.248.80:5566/4gtv-live130/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
-DW德國之聲,http://156.238.248.80:5566/4gtv-live071/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
-
+#EXTINF:-1 group-title="台湾台" tvg-name="滾動力" tvg-logo="https://epg.112114.xyz/logo/滾動力.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",滾動力
+http://156.238.248.80:5566/4gtv-live012/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="台湾台" tvg-name="經典卡通台" tvg-logo="https://epg.112114.xyz/logo/經典卡通台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",經典卡通台
+http://156.238.248.80:5566/4gtv-live022/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="台湾台" tvg-name="精選動漫台" tvg-logo="https://epg.112114.xyz/logo/精選動漫台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",精選動漫台
+http://156.238.248.80:5566/4gtv-live024/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="台湾台" tvg-name="ELTV生活英語台" tvg-logo="https://epg.112114.xyz/logo/ELTV生活英語台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",ELTV生活英語台
+http://156.238.248.80:5566/of-litv-xinchuang20/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="外国新闻台" tvg-name="NHK 新聞資訊台" tvg-logo="https://epg.112114.xyz/logo/NHK 新聞資訊台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",NHK 新聞資訊台
+http://156.238.248.80:5566/4gtv-live168/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="外国新闻台" tvg-name="半島國際新聞台" tvg-logo="https://epg.112114.xyz/logo/半島國際新聞台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",半島國際新聞台
+http://156.238.248.80:5566/4gtv-live157/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="外国新闻台" tvg-name="CNBC Asia 財經台" tvg-logo="https://epg.112114.xyz/logo/CNBC Asia 財經台.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CNBC Asia 財經台
+http://156.238.248.80:5566/4gtv-live130/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
+#EXTINF:-1 group-title="外国新闻台" tvg-name="DW德國之聲" tvg-logo="https://epg.112114.xyz/logo/DW德國之聲.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",DW德國之聲
+http://156.238.248.80:5566/4gtv-live071/index.m3u8?token=SDzCnf82ZVmlnUsxT0jIYSUyIRFxUGz3eC1ayPBZ0NvI8ZsakxSQPXftWLdRLGhD&proxy=true
